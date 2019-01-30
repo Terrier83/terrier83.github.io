@@ -1,0 +1,50 @@
+#title {
+    color: white;
+    background-color: #784c90;
+    width: 100%;
+    top: 0px;
+    font-size: 2.2em;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    word-spacing: 0.3em;
+    text-align: center;
+    padding: 5px;
+    border: 1px solid #ab74c9;
+    position: fixed;
+}
+
+body {
+    font-family: Helvetica, Arial, sans-serif; 
+    text-align: center;
+    width: 100%;
+}
+
+ul {
+    margin: 30px auto;
+    padding: 0 20px;
+    text-align: center;
+}
+    
+li {
+    display: inline-block;
+    font-size: 0.7em;
+    text-transform: uppercase;
+    padding: 16px 24px;
+    margin: 5px 40px;
+    border-radius: 10px; 
+    background-color: #ab74c9;
+    color: white;
+    font-weight: bold;
+}
+
+.paragraphs {
+    margin-top: 280px;
+    margin-bottom: 0px;
+    padding: 0 10%;
+    font-size: 1.5em;
+    padding-top: 20px;
+    line-height: 1.6em;
+    background-image: url(cross2.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
